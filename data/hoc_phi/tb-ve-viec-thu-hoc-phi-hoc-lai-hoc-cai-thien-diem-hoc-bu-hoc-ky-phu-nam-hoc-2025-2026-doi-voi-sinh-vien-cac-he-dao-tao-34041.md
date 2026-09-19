@@ -1,0 +1,311 @@
+---
+doc_id: "tb-ve-viec-thu-hoc-phi-hoc-lai-hoc-cai-thien-diem-hoc-bu-hoc-ky-phu-nam-hoc-2025-2026-doi-voi-sinh-vien-cac-he-dao-tao-34041"
+title: "Học viện Tài chính - Academy of Finance"
+source_url: "https://hvtc.edu.vn/TB-Ve-viec-thu-hoc-phi-hoc-lai-hoc-cai-thien-diem-hoc-bu-Hoc-ky-phu-nam-hoc-2025--2026-doi-voi-sinh-vien-cac-he-dao-tao-_34041.html"
+retrieved_at: "2026-09-19"
+document_version: "not-stated"
+---
+
+# Học viện Tài chính - Academy of Finance
+
+Học viện Tài chính - Academy of Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Học viện Tài Chính
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trang chủ
+
+
+
+
+
+TB Về việc thu học phí học lại, học cải thiện điểm, học bù Học kỳ phụ năm học 2025 – 2026 đối với sinh viên các hệ đào tạo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Số: 731/TB-HVTC ngày 18 tháng 5 năm 2026
+
+
+
+
+
+Ngày phát hành:
+19/05/2026 - 11:40
+
+
+Lượt xem:
+2292
+
+
+
+
+
+
+
+
+Căn cứ Thông báo số 703/TB-HVTC ngày 14/05/2026 về lịch tổ chức đăng ký học lại, học cải thiện điểm, học bù Học kỳ phụ  năm học 2025 - 2026 đối với sinh viên các hệ đào tạo;
+
+
+
+Học viện Tài chính thông báo mức thu, thời gian thu học phí học lại, học cải thiện điểm, học bù Học kỳ phụ năm học 2025 - 2026  như sau:
+
+
+
+ 1. Mức thu:                                        
+
+
+
+1.1. Học bù: Bằng mức thu học phí lần đầu đối với từng đối tượng.
+
+
+
+1.2. Học lại, học cải thiện điểm, thực tập lại:
+
+
+
+- Đối với đào tạo hệ đại học chính quy chương trình chất lượng cao; đại học chính quy diện đặt hàng học cùng chất lượng cao; đào tạo chính quy chương trình định hướng chứng chỉ quốc tế: Thu bằng mức thu học phí lần đầu.
+
+
+
+- Đào tạo chính quy chương trình chuẩn, đại học chính quy diện đặt hàng học cùng chương trình chuẩn; 3 tây, bộ đội, Liên thông đại học; Đại học văn bằng 2; Đại học vừa làm vừa học: 840.000đ/tín chỉ.
+
+
+
+ - Lưu học sinh Lào: 840.000đ/tín chỉ.
+
+
+
+2. Hình thức, địa điểm, thời gian thu: Từ ngày 23/05/2026 đến hết ngày 01/06/2026.
+
+
+
+3. Phương thức nộp:
+
+
+
+Sinh viên truy cập vào link:  https://sinhvien.hvtc.edu.vn/
+
+
+
+Bước 1: Chọn menu “Tài chính” => Chọn “Đăng ký nộp tiền trực tuyến”
+
+
+
+Bước 2: Chọn Học kỳ phụ năm học 2025-2026, học lại, học cải thiện, học bù.
+
+
+
+Bước 3: Tích chọn các khoản thu cần nộp và ấn chọn nút ngân hàng
+
+
+
+Xác nhận OK
+
+
+
+Hệ thống sẽ hiển thị ra mã QR. Sinh viên mở app tài khoản ngân hàng, thực hiện thanh toán bằng cách quét mã QR
+
+
+
+Sinh viên xem kỹ mã AOF+Mã sinh viên (đúng mã sinh viên), đúng tên sinh viên trên app ngân hàng thì sinh viên mới được thanh toán
+
+
+
+Bước 4: Xem kết quả nộp tiền
+
+
+
+Sinh viên quay lại menu thông tin tài chính để kiểm tra lại số tiền đã chuyển sang mục đã nộp hay chưa.
+
+
+
+Mọi vướng mắc xin liên hệ trong giờ hành chính theo số điện thoại: 
+
+
+
+0972915858 – Cô Đông - Ban Tài chính kế toán
+
+
+
+Đề nghị Văn phòng Khoa, lớp trưởng các lớp đôn đốc nhắc nhở sinh viên nộp học phí đúng thời gian quy định./.
+
+
+
+
+
+
+
+Nguồn: Ban Tài chính kế toán
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tin cùng chuyên mục
+
+
+
+
+
+
+
+
+
+Thông báo Về việc nhập học trực tiếp cho các sinh viên hệ Đại học chính quy CQ64 (dành cho sinh viên chưa đến nhập học ngày 23, 24/8/2026)
+
+
+
+
+
+
+
+Thông báo V/v Kế hoạch học tập và “Tuần sinh hoạt công dân - sinh viên” đầu khóa Hệ đại học chính quy khóa 64 tại Học viện Tài chính
+
+
+
+
+
+
+
+Thông báo V/v phân công Khoa quản lý sinh viên hệ Đại học chính quy khóa 64
+
+
+
+
+
+
+
+Tra cứu danh sách lớp sinh viên hệ đại học chính quy khóa 64 năm 2026
+
+
+
+
+
+
+
+Thông báo v/v nhập học đối với thí sinh trúng tuyển các hệ vừa làm vừa học (tuyển sinh đợt 1 năm 2026)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chat Facebook
+
+
+
+
+
+
+
+
+
+Messenger
+
+
+
+
+
+
+
+
+
+Gọi điện
+
+
+
+
+
+
+
+
+
+Email

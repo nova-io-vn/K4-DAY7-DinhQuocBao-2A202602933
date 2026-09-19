@@ -1,0 +1,651 @@
+---
+doc_id: "quy-dinh-moi-nhat-ve-muc-hoc-phi-tu-nam-hoc-2025-2026"
+title: "Quy định mới nhất về mức học phí từ năm học 2025 - 2026"
+source_url: "https://phongkhtc.ntu.edu.vn/tin-tuc/quy-dinh-moi-nhat-ve-muc-hoc-phi-tu-nam-hoc-2025---2026"
+retrieved_at: "2026-09-19"
+document_version: "not-stated"
+---
+
+# Quy định mới nhất về mức học phí từ năm học 2025 - 2026
+
+Quy định mới nhất về mức học phí từ năm học 2025 - 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bộ GD&ÐT
+
+
+Tra cứu VB
+
+
+E-Learning
+
+
+
+E-Office
+
+
+
+
+
+Đăng nhập
+
+
+
+
+
+NTU Trường Đại học Nha Trang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cán bộ 
+
+
+Giảng viên 
+
+
+Sinh viên 
+
+
+Thư viện 
+
+
+CTĐT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tin tức
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quy định mới nhất về mức học phí từ năm học 2025 - 2026
+
+
+
+
+
+Quản trị Viên
+
+
+
+
+30/09/2025
+
+
+
+
+5770
+
+
+
+
+
+0
+
+
+
+(Chinhphu.vn) - Nghị định số 238/2025/NĐ-CP có hiệu lực ngày 3/9/2025 thay thế Nghị định số 81/2021/NĐ-CP và Nghị định số 97/2023/NĐ-CP của Chính phủ, trong đó quy định về khung học phí cho các cấp học phổ thông và đại học từ năm học 2025 - 2026 trở đi.
+
+
+
+
+
+
+
+
+
+
+Cụ thể, Điều 8 Nghị định 238/2025/NĐ-CP quy định học phí đối với giáo dục mầm non, phổ thông như sau:
+
+
+Khung học phí là căn cứ để xác định mức hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông tại cơ sở giáo dục dân lập, tư thục và mức ngân sách nhà nước cấp bù cơ sở giáo dục công lập khi thực hiện chính sách miễn học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông.
+
+
+Khung học phí từ năm học 2025 - 2026 trở đi đối với cơ sở giáo dục mầm non, giáo dục phổ thông công lập chưa tự bảo đảm chi thường xuyên như sau:
+
+
+Đối với Năm học 2025 - 2026 (mức sàn - mức trần):
+
+
+
+
+
+ 
+
+
+
+
+
+Từ năm học 2026-2027, học phí mầm non, phổ thông tăng mỗi năm không quá 7,5% 
+
+
+Từ năm học 2026 - 2027 đến năm học 2035 - 2036, mức trần học phí được điều chỉnh theo tỷ lệ phù hợp với điều kiện kinh tế xã hội của địa phương, tốc độ tăng chỉ số giá tiêu dùng, tốc độ tăng trưởng kinh tế hàng năm nhưng không quá 7,5%/năm;
+
+
+Từ năm học 2036 - 2037 trở đi, mức trần học phí được điều chỉnh phù hợp với điều kiện kinh tế - xã hội của từng địa phương nhưng tối đa không vượt quá tốc độ tăng chỉ số giá tiêu dùng tại thời điểm xác định mức học phí so với cùng kỳ năm trước do cơ quan nhà nước có thẩm quyền công bố.
+
+
+Mức trần của khung học phí đối với cơ sở giáo dục mầm non, giáo dục phổ thông công lập tự bảo đảm chi thường xuyên: tối đa bằng 2 lần mức trần học phí quy định theo bảng trên.
+
+
+Mức trần của khung học phí đối với cơ sở giáo dục mầm non, giáo dục phổ thông công lập tự bảo đảm chi thường xuyên và chi đầu tư: tối đa bằng 2,5 lần mức trần học phí quy định theo bảng trên.
+
+
+Trường hợp học trực tuyến (học online), Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trình Hội đồng nhân dân cùng cấp quy định cụ thể mức thu học phí đối với cơ sở giáo dục công lập theo phân cấp quản lý trên cơ sở chi phí phát sinh thực tế hợp lý, tối đa bằng mức học phí của cơ sở giáo dục đã được ban hành.
+
+
+Căn cứ chính sách phát triển kinh tế - xã hội, khả năng cân đối của ngân sách, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trình Hội đồng nhân dân cùng cấp xem xét, quyết định khung học phí hoặc mức học phí đối với các cơ sở giáo dục mầm non, giáo dục phổ thông công lập (gồm cả cơ sở giáo dục mầm non, giáo dục phổ thông do các trường đại học, cao đẳng, viện nghiên cứu thành lập theo quy định) trên cơ sở định mức kinh tế - kỹ thuật hoặc định mức chi phí do cơ quan có thẩm quyền ban hành, bảo đảm mức thu học phí tương xứng với chất lượng dịch vụ giáo dục; đồng thời phải bảo đảm thực hiện các mục tiêu giáo dục bắt buộc theo quy định của Luật Giáo dục và các văn bản hướng dẫn thi hành.
+
+
+Căn cứ khung học phí quy định nêu trên, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trình Hội đồng nhân dân cùng cấp quyết định mức học phí đối với cơ sở giáo dục công lập và mức hỗ trợ học phí đối với trẻ em, học sinh dân lập, tư thục nhưng không vượt mức thu học phí của cơ sở giáo dục dân lập, tư thục.
+
+
+Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương quyết định việc sắp xếp, phân loại các vùng trên địa bàn để quyết định mức học phí, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông trong cơ sở giáo dục trên địa bàn quản lý.
+
+
+Học phí đối với giáo dục đại học
+
+
+Điều 10 Nghị định 238/2025/NĐ-CP quy định học phí đối với giáo dục đại học, trong đó, mức trần học phí đối với cơ sở giáo dục đại học công lập chưa tự đảm bảo chi thường xuyên từ năm học 2025 - 2026 trở đi như sau:
+
+
+
+
+
+ 
+
+
+
+
+
+Từ năm học 2027 - 2028 trở đi, mức trần học phí được điều chỉnh phù hợp với khả năng chi trả của người dân, điều kiện kinh tế - xã hội nhưng tối đa không vượt quá tốc độ tăng chỉ số giá tiêu dùng tại thời điểm xác định mức học phí so với cùng kỳ năm trước do cơ quan nhà nước có thẩm quyền công bố.
+
+
+Đối với cơ sở giáo dục đại học công lập tự bảo đảm chi thường xuyên, mức học phí được xác định tối đa bằng 2 lần mức trần học phí nêu trên tương ứng với từng khối ngành và từng năm học.
+
+
+Trường hợp cơ sở giáo dục đại học công lập tự bảo đảm chi thường xuyên và chi đầu tư, mức học phí được xác định tối đa bằng 2,5 lần mức trần học phí nêu trên tương ứng với từng khối ngành và từng năm học.
+
+
+Đối với chương trình đào tạo của cơ sở giáo dục đại học công lập đạt mức kiểm định chất lượng chương trình đào tạo theo tiêu chuẩn do Bộ Giáo dục và Đào tạo quy định hoặc đạt mức kiểm định chất lượng chương trình đào tạo theo tiêu chuẩn quốc tế hoặc tương đương, cơ sở giáo dục đại học căn cứ định mức kinh tế - kỹ thuật hoặc định mức chi phí của từng ngành, nghề đào tạo do cơ sở giáo dục ban hành để tự quyết định mức thu học phí; thực hiện công khai với người học, xã hội.
+
+
+Mức trần học phí đối với đào tạo thạc sĩ, tiến sĩ của các cơ sở giáo dục đại học công lập được xác định bằng mức trần học phí đào tạo đại học quy định tại khoản 1, khoản 2 Điều này nhân hệ số 1,5 đối với đào tạo thạc sĩ, nhân hệ số 2,5 đối với đào tạo tiến sĩ tương ứng với từng khối ngành đào tạo của từng năm học theo các mức độ tự chủ.
+
+
+Mức học phí đào tạo hình thức vừa làm vừa học; đào tạo từ xa được xác định trên cơ sở chi phí hợp lý thực tế với mức thu không vượt quá 150% mức thu học phí so với hệ đào tạo chính quy tương ứng.
+
+
+Trường hợp học trực tuyến (học online), cơ sở giáo dục đại học xác định mức thu học phí trên cơ sở chi phí phát sinh thực tế hợp lý, tối đa bằng mức học phí của cơ sở giáo dục đại học tương ứng từng khối ngành.
+
+
+Mức học phí đối với các chương trình giáo dục thường xuyên, dịch vụ đào tạo, bồi dưỡng ngắn hạn phù hợp với ngành, lĩnh vực đào tạo của mỗi cơ sở theo quy định của pháp luật được các cơ sở giáo dục chủ động tính toán, quy định mức thu theo định mức kinh tế - kỹ thuật hoặc định mức chi phí do cơ sở giáo dục ban hành, bảo đảm tính công khai, minh bạch và giải trình với người học, xã hội.
+
+
+Tổng học phí theo tín chỉ của chương trình đào tạo tối đa bằng tổng học phí tính theo niên chế
+
+
+Về học phí đào tạo đại học tính theo tín chỉ, mô-đun, mức thu học phí của một tín chỉ, mô-đun được xác định căn cứ vào tổng thu học phí của toàn khóa học theo nhóm ngành, nghề đào tạo và tổng số tín chỉ, mô-đun toàn khóa theo công thức dưới đây:
+
+
+
+
+
+ 
+
+
+
+
+
+Tổng học phí toàn khóa = mức thu học phí 1 sinh viên/1 tháng x 10 tháng x số năm học, bảo đảm nguyên tắc tổng học phí theo tín chỉ của chương trình đào tạo tối đa bằng tổng học phí tính theo niên chế.
+
+
+Trường hợp học quá thời hạn quy định của chương trình đào tạo, học phí tín chỉ áp dụng từ thời điểm quá hạn được xác định lại trên cơ sở thời gian học thực tế trên nguyên tắc bù đắp chi phí và thực hiện công khai, giải trình với người học. Trường hợp đào tạo bằng tốt nghiệp thứ 2 trình độ đại học, người đóng học phí của các tín chỉ thực học theo chương trình đào tạo.
+
+
+Các cơ sở giáo dục công lập căn cứ vào mức trần học phí tại Điều này và định mức kinh tế - kỹ thuật hoặc định mức chi phí của từng ngành, chương trình đào tạo do cơ sở giáo dục ban hành để quyết định mức thu học phí cụ thể đối với từng năm học, ngành, chương trình đào tạo thuộc thẩm quyền quản lý.
+
+
+Đối với các cơ sở giáo dục đại học do các tổ chức kinh tế, doanh nghiệp nhà nước quản lý trực tiếp: thủ trưởng các cơ sở giáo dục căn cứ vào mức trần học phí trên và định mức kinh tế - kỹ thuật hoặc định mức chi phí của từng ngành, nghề đào tạo do cơ sở giáo dục ban hành để quyết định mức thu học phí cụ thể đối với từng năm học, ngành, nghề đào tạo thuộc thẩm quyền quản lý nhưng không vượt quá mức trần học phí theo quy định.
+
+
+Các cơ sở giáo dục đại học công lập được quy định mức học phí đối với các trường hợp học lại. Mức học phí học lại tối đa không vượt quá mức trần học phí quy định tại Nghị định này phù hợp với từng loại hình đơn vị. Trường hợp tổ chức học riêng theo nhu cầu người học thì mức thu theo thỏa thuận giữa người học và cơ sở giáo dục đại học công lập trên cơ sở bù đắp đủ chi phí.
+
+
+Sinh viên đại học, học viên cao học, nghiên cứu sinh là người nước ngoài đang theo học tại cơ sở giáo dục đại học công lập nộp học phí theo mức thu do cơ sở giáo dục đại học quy định hoặc theo hiệp định, thỏa thuận hợp tác với bên nước ngoài.
+
+
+Nguồn: baochinhphu.vn
+
+
+
+
+
+
+Chia sẻ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bài viết trước
+
+Những chính sách kinh tế, xã hội có hiệu lực từ tháng 5/2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bài tiếp tiếp theo
+
+Học phí nhiều trường đại học tăng mạnh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Danh mục tin
+
+
+
+
+
+Tin tức và sự kiện
+
+
+Thông tin nội bộ
+
+
+Nghiên cứu - Trao đổi
+
+
+Hoạt động công đoàn
+
+
+
+
+
+
+
+
+
+
+Bài viết đã xem
+
+
+
+Quy định mới nhất về mức học phí từ năm học 2025 - 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright [2018] by Phòng CNTT

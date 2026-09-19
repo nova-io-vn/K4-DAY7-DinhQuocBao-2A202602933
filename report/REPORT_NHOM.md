@@ -60,12 +60,19 @@ Chạy `ChunkingStrategyComparator().compare()` trên 2-3 tài liệu:
 
 > Mỗi thành viên điền một khối dưới đây (copy thêm nếu nhóm có nhiều hơn 3 người).
 
-**Thành viên 1 — [Tên]**
-- **Loại chiến lược:** [FixedSize / Sentence / Recursive / custom]
-- **Mô tả & lý do chọn cho chủ đề này:** *(2-3 câu)*
-- **Code snippet (nếu custom):**
+**Thành viên 1 — Đinh Quốc Bảo**
+- **Loại chiến lược:** `RecursiveChunker`
+- **Cấu hình:** `chunk_size=1400`, separator theo thứ tự `\n\n`, `\n`, `. `, khoảng trắng và chuỗi rỗng.
+- **Mô tả & lý do chọn cho chủ đề này:** Tài liệu học phí thường được tổ chức theo mục, đoạn và danh sách, trong đó điều kiện áp dụng cần nằm gần mức tiền tương ứng. `RecursiveChunker` ưu tiên giữ nguyên ranh giới đoạn/mục; chỉ dùng separator nhỏ hơn khi đoạn còn quá dài, nhờ đó hạn chế cắt rời tên đối tượng, mức thu và hình thức thu. Kích thước 1.400 ký tự giúp giữ đủ ngữ cảnh cho các điều khoản học phí dài, dù một số chunk vẫn có thể chứa nội dung điều hướng thừa từ trang web.
+- **Code snippet cấu hình và sử dụng:**
 ```python
-# Dán mã nguồn (implementation) vào đây
+from src import RecursiveChunker
+
+chunker = RecursiveChunker(
+    separators=["\n\n", "\n", ". ", " ", ""],
+    chunk_size=1400,
+)
+chunks = chunker.chunk(document.content)
 ```
 
 **Thành viên 2 — [Tên]**
@@ -82,7 +89,7 @@ Chạy `ChunkingStrategyComparator().compare()` trên 2-3 tài liệu:
 
 | Thành viên | Chiến lược (Strategy) | Điểm truy xuất (/10) | Điểm mạnh | Điểm yếu |
 |-----------|----------|----------------------|-----------|----------|
-| | | | | |
+| Đinh Quốc Bảo | `RecursiveChunker` (`chunk_size=1400`) | 10/10 (5/5 câu có chunk liên quan trong top-3) | Giữ điều kiện, đối tượng và mức học phí trong cùng đoạn; thích nghi với đoạn dài | Có thể tạo chunk khá lớn và giữ lại boilerplate nếu dữ liệu crawl chưa được làm sạch |
 | | | | | |
 | | | | | |
 
