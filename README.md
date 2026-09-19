@@ -262,3 +262,17 @@ Xem chi tiết tại `docs/SCORING.md`. Tóm tắt:
 ```bash
 pytest tests/ -v
 ```
+
+---
+
+## Giao Diện Tra Cứu Học Phí
+
+Repo có giao diện web cục bộ để đặt câu hỏi, lọc theo trường và xem các nguồn được truy xuất. Giao diện dùng trực tiếp `EmbeddingStore`, `KnowledgeBaseAgent` và dữ liệu trong `data/hoc_phi`; không cần cài thêm thư viện hoặc API key.
+
+Chạy trên Windows:
+
+```powershell
+.\.venv\Scripts\python.exe web_app.py
+```
+
+Sau đó mở [http://127.0.0.1:8000](http://127.0.0.1:8000). Nhấn `Ctrl+C` trong terminal để dừng máy chủ.

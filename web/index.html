@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Giao diện hỏi đáp và truy xuất thông tin học phí đại học."
+    />
+    <title>Tra cứu học phí</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="Trang chủ Tra cứu học phí">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none">
+            <path d="M4 7.4 12 3l8 4.4-8 4.4L4 7.4Z" />
+            <path d="M7 10v5.1c0 1.6 2.2 2.9 5 2.9s5-1.3 5-2.9V10" />
+          </svg>
+        </span>
+        <span>Tra cứu học phí</span>
+      </a>
+      <div class="system-status" role="status">
+        <span class="status-dot" aria-hidden="true"></span>
+        <span>Hệ thống sẵn sàng</span>
+      </div>
+    </header>
+
+    <main class="workspace">
+      <section class="intro" aria-labelledby="page-title">
+        <p class="eyebrow">TRỢ LÝ DỮ LIỆU ĐẠI HỌC</p>
+        <h1 id="page-title">Bạn muốn biết gì về học phí?</h1>
+        <p>Đặt câu hỏi bằng tiếng Việt. Hệ thống sẽ tìm trong các thông báo công khai và hiển thị nguồn đối chiếu.</p>
+      </section>
+
+      <div class="app-grid">
+        <section class="query-panel panel" aria-labelledby="query-title">
+          <div class="panel-heading">
+            <div>
+              <p class="step">01</p>
+              <h2 id="query-title">Đặt câu hỏi</h2>
+            </div>
+            <span class="keyboard-hint"><kbd>Ctrl</kbd> + <kbd>Enter</kbd></span>
+          </div>
+
+          <form id="question-form">
+            <label for="question">Nội dung câu hỏi</label>
+            <textarea
+              id="question"
+              name="question"
+              rows="5"
+              maxlength="500"
+              placeholder="Ví dụ: Lớp học lại dưới 4 sinh viên phải đóng mức nào?"
+              required
+            ></textarea>
+            <div class="textarea-meta">
+              <span>Hỏi cụ thể để nhận kết quả chính xác hơn</span>
+              <span id="character-count">0/500</span>
+            </div>
+
+            <div class="form-row">
+              <div class="field">
+                <label for="institution">Trường</label>
+                <select id="institution" name="institution">
+                  <option value="">Tất cả các trường</option>
+                  <option value="HVTC">Học viện Tài chính</option>
+                  <option value="UTT">ĐH Công nghệ GTVT</option>
+                  <option value="USSH">ĐH KHXH&amp;NV</option>
+                  <option value="PTIT">Học viện Công nghệ BCVT</option>
+                  <option value="NTU">ĐH Nha Trang</option>
+                  <option value="PNT">ĐH Y khoa Phạm Ngọc Thạch</option>
+                </select>
+              </div>
+              <div class="field field-small">
+                <label for="top-k">Số nguồn</label>
+                <select id="top-k" name="top_k">
+                  <option value="1">1 nguồn</option>
+                  <option value="3" selected>3 nguồn</option>
+                  <option value="5">5 nguồn</option>
+                </select>
+              </div>
+            </div>
+
+            <button class="primary-button" type="submit">
+              <span>Tìm câu trả lời</span>
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="m9 18 6-6-6-6" />
+              </svg>
+            </button>
+          </form>
+
+          <div class="suggestions" aria-labelledby="suggestion-title">
+            <p id="suggestion-title">Câu hỏi gợi ý</p>
+            <button type="button" data-question="Lớp học lại có dưới 4 sinh viên phải đóng mức nào?" data-institution="UTT">
+              Mức phí lớp học lại dưới 4 sinh viên
+            </button>
+            <button type="button" data-question="Sinh viên quốc tế không phải diện hiệp định có mức thu mỗi năm học là bao nhiêu?" data-institution="USSH">
+              Học phí sinh viên quốc tế
+            </button>
+            <button type="button" data-question="Học lại chương trình chuẩn thu bao nhiêu một tín chỉ?" data-institution="HVTC">
+              Phí học lại chương trình chuẩn
+            </button>
+          </div>
+        </section>
+
+        <section class="answer-panel panel" aria-labelledby="answer-title" aria-live="polite">
+          <div class="panel-heading">
+            <div>
+              <p class="step">02</p>
+              <h2 id="answer-title">Câu trả lời</h2>
+            </div>
+            <span id="result-badge" class="result-badge is-hidden">Đã truy xuất</span>
+          </div>
+
+          <div id="answer-empty" class="empty-state">
+            <div class="empty-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none">
+                <path d="M5 5.8A2.8 2.8 0 0 1 7.8 3h8.4A2.8 2.8 0 0 1 19 5.8v7.4a2.8 2.8 0 0 1-2.8 2.8H11l-4.6 4v-4A2.8 2.8 0 0 1 5 13.2V5.8Z" />
+                <path d="M8.5 8.5h7M8.5 11.5h4.5" />
+              </svg>
+            </div>
+            <h3>Chưa có câu hỏi</h3>
+            <p>Câu trả lời có căn cứ và các nguồn liên quan sẽ xuất hiện tại đây.</p>
+          </div>
+
+          <div id="answer-loading" class="loading-state is-hidden" aria-label="Đang tìm câu trả lời">
+            <div class="skeleton skeleton-short"></div>
+            <div class="skeleton"></div>
+            <div class="skeleton"></div>
+            <div class="skeleton skeleton-medium"></div>
+          </div>
+
+          <div id="answer-result" class="answer-result is-hidden">
+            <p id="answer-question" class="answer-question"></p>
+            <div class="answer-content">
+              <span class="answer-accent" aria-hidden="true"></span>
+              <p id="answer-text"></p>
+            </div>
+            <div class="answer-footer">
+              <span id="answer-filter"></span>
+              <span id="answer-source-count"></span>
+            </div>
+          </div>
+
+          <div id="answer-error" class="error-state is-hidden" role="alert"></div>
+        </section>
+      </div>
+
+      <section id="sources-section" class="sources-section is-hidden" aria-labelledby="sources-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">KIỂM CHỨNG THÔNG TIN</p>
+            <h2 id="sources-title">Nguồn được truy xuất</h2>
+          </div>
+          <p id="corpus-stats"></p>
+        </div>
+        <div id="sources-list" class="sources-list"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Lab 7 · Embedding &amp; Vector Store · Dữ liệu học phí công khai</p>
+    </footer>
+  </body>
+</html>
